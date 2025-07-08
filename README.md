@@ -1,5 +1,3 @@
-# Movie-Recommender-System
-
 # Movie Recommendation System
 
 A content-based movie recommendation system that suggests similar movies based on movie features like genres, keywords, cast, crew, and plot overview using the TMDB 5000 movie dataset.
